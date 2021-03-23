@@ -20,3 +20,9 @@ body {
 #login .container #login-row #login-column #login-box #login-form #register-link {
     margin-top: -85px;
 }
+
+#center-img {
+    margin-top: 50px;
+    max-width: 600px;
+    height: 100px;
+}
